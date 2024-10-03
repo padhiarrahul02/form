@@ -1,0 +1,14 @@
+form{
+border:1.5px solid black;
+display: inline-block;
+padding: 2%;
+
+}
+label{
+    float:left;
+
+}
+.input{
+    
+    float: right;
+}
